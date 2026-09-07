@@ -1,5 +1,11 @@
 # Tiba x Terminal 3
 
+> **Merged into Tiba.** This integration now lives in the Tiba product itself, wired
+> into the payout decision it was built for: https://github.com/Tiba-Rail/tiba
+> See the "Terminal 3 Identity" section of that README, and run it with `npm run t3:demo`.
+> This repo is kept only as the standalone build history.
+
+
 An org-owned Terminal 3 agent, delegated exactly one function, proven live, driving
 a real pay/refuse decision for [Tiba](https://github.com/Tiba-Rail/tiba) -- a wallet
 for AI agents that pays real people within owner-set limits, only after two isolated
