@@ -9,7 +9,7 @@ Tiba's recipients carry `kycStatus` / `kycProvider` fields today backed by a moc
 provider (`prisma/schema.prisma`, `src/lib/identity.ts` in the Tiba repo). This is
 the start of replacing that mock with Terminal 3's real identity + delegation stack.
 
-Built at the AI Tinkerers KL x Terminal 3 build night, 7 Sep 2026, in ~100 minutes.
+Built for the AI Tinkerers KL x Terminal 3 Agent Dev Kit build night, 7 September 2026.
 
 ## Run it
 
