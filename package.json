@@ -1,0 +1,14 @@
+{
+  "name": "tiba-t3-identity",
+  "version": "1.0.0",
+  "description": "Tiba x Terminal 3: an org-owned agent, delegated one function, proven live, driving a real pay/refuse decision.",
+  "type": "module",
+  "main": "demo.mjs",
+  "scripts": {
+    "demo": "node demo.mjs"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@terminal3/t3n-sdk": "5.2.0"
+  }
+}

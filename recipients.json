@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Ali Hassan (contractor invoice #TIBA-0091)",
+    "invoiceUsd": 240,
+    "t3nDid": "did:t3n:e040cf346be2c6ae936a123dcd4ec9e675983977",
+    "note": "Stand-in recipient. kyc-status is self-only on this SDK/testnet, and Terminal 3 has no way for Faris's account to create a second real account tonight -- so this demo points the check at Faris's own DID, the only live identity available, and reports whatever Terminal 3 actually says about it. See README."
+  }
+]
